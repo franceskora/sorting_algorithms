@@ -1,4 +1,5 @@
 #include "sort.h"
+#include <stdlib.h>
 
 /**
  * heap_sort - sorts an array following the Heap sort algorithm
